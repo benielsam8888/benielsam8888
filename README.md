@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benielsam
 - 👀 I’m interested in Web Developing, Mobile App Developing, Tech projects & Advertisement 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 
 <!---
